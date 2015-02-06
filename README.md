@@ -6,7 +6,7 @@ Erik Baranyi
 If your are using wamp server 
 
 1) Copy the popblogpoint folder to your localhost (probably C:\wamp\www).
-2) Open the popblogpoint folder and open the index.html 
+2) In the popblogpoint folder open the index.html file.
 3) Enjoy
 
 
@@ -15,7 +15,7 @@ If your are using wamp server
 wamp server
 
 1) Copy the popblogpoint folder to your localhost (probably /var/www/).
-2) Open the popblogpoint folder and open the index.html 
+2) In the popblogpoint folder open the index.html file.
 3) Enjoy
 
 
