@@ -1,4 +1,2 @@
-# Popblog-Point
-Basic Blog site
-
-My name is Erik Baranyi.
+# Popblog-Point @ 2015
+Erik Baranyi 
