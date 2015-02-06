@@ -13,7 +13,7 @@ If your are using wamp server
 
 **** Linux Install ****
 
-wamp server
+lamp server
 
 1) Copy the popblogpoint folder to your localhost (probably /var/www/).
 2) In your browser type localhost & choose the popblogpoint folder.
